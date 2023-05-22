@@ -1,0 +1,92 @@
+﻿[
+    {
+        "run": "1111111-1",
+        "nombre": "Carlos",
+        "apellido": "Soto",
+        "telefono": 222225,
+        "edad": 22,
+        "genero": "M",
+        "puntajeObtenido": 100,
+        "estado": true
+    },
+    {
+        "run": "2222222-2",
+        "nombre": "Patricio",
+        "apellido": "Soto",
+        "telefono": 333333,
+        "edad": 24,
+        "genero": "M",
+        "puntajeObtenido": 95,
+        "estado": true
+    },
+    {
+        "run": "3333333-3",
+        "nombre": "Alejandra",
+        "apellido": "Garay",
+        "telefono": 444444,
+        "edad": 19,
+        "genero": "F",
+        "puntajeObtenido": 90,
+        "estado": true
+    },
+    {
+        "run": "4444444-4",
+        "nombre": "Andrea",
+        "apellido": "Saravia",
+        "telefono": 233333,
+        "edad": 20,
+        "genero": "F",
+        "puntajeObtenido": 100,
+        "estado": false
+    },
+    {
+        "run": "5555555-5",
+        "nombre": "Ana",
+        "apellido": "Grove",
+        "telefono": 555555,
+        "edad": 22,
+        "genero": "F",
+        "puntajeObtenido": 90,
+        "estado": true
+    },
+    {
+        "run": "6666666-6",
+        "nombre": "Valentina",
+        "apellido": "Molina",
+        "telefono": 666656,
+        "edad": 21,
+        "genero": "F",
+        "puntajeObtenido": 85,
+        "estado": false
+    },
+    {
+        "run": "7777777-7",
+        "nombre": "María",
+        "apellido": "Grove",
+        "telefono": 777777,
+        "edad": 18,
+        "genero": "M",
+        "puntajeObtenido": 90,
+        "estado": false
+    },
+    {
+        "run": "8888888-8",
+        "nombre": "Norberto",
+        "apellido": "Miranda",
+        "telefono": 888888,
+        "edad": 30,
+        "genero": "M",
+        "puntajeObtenido": 70,
+        "estado": false
+    },
+    {
+        "run": "9999999-8",
+        "nombre": "Carmen",
+        "apellido": "González",
+        "telefono": 965555,
+        "edad": 31,
+        "genero": "F",
+        "puntajeObtenido": 72,
+        "estado": true
+    }
+]
